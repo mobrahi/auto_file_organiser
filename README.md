@@ -145,6 +145,12 @@ The script creates a log file file_organizer.log in the same directory, recordin
 5. Handles duplicate filenames by adding numbers
 6. Logs all actions
 
+## Requirements
+
+- Python 3.6 or higher
+- No additional packages required
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here are some ways you can contribute:
@@ -176,3 +182,5 @@ Inspired by the need for a tidy Downloads folder
 Thanks to all contributors and users
 
 ## ⭐ Star this repository if you find it useful!
+
+Thanks you!
